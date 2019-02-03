@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E64F-6307
+
+ Directory of C:\Users\NJOSHI\Documents\TestGitGitHubFolder
+
+02/03/2019  09:13 PM    <DIR>          .
+02/03/2019  09:13 PM    <DIR>          ..
+02/03/2019  09:12 PM    <DIR>          .git
+02/03/2019  09:13 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  434,617,671,680 bytes free
