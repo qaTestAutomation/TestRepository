@@ -1,14 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is E64F-6307
-
- Directory of C:\Users\NJOSHI\Documents\TestGitGitHubFolder
-
-02/09/2019  11:36 AM    <DIR>          .
-02/09/2019  11:36 AM    <DIR>          ..
-02/09/2019  11:35 AM    <DIR>          .git
-02/03/2019  10:18 PM               463 index.html
-02/04/2019  12:23 AM                11 test1.txt
-02/04/2019  12:40 AM                13 test2.txt
-02/09/2019  11:36 AM                 0 test3.txt
-               4 File(s)            487 bytes
-               3 Dir(s)  426,866,487,296 bytes free
+home3.txt
